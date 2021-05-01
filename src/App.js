@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <div>
-          <nav>
+        <div >
+          <nav >
             <ul>
               <li>
                 <Link to="/">Home</Link>
