@@ -39,15 +39,4 @@
 
 li {
   list-style-type: none;
-  color: black;
-}
-a {
-  color: #212529;
-}
-.navbar li {
-  display: inline-block;
-  font-size: 15px;
-  padding: 5px;
-  padding-bottom: 0px;
-  text-align: right;
 }
